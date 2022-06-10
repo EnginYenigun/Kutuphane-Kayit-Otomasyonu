@@ -1,0 +1,13 @@
+D:\OneDrive\DATA\Software_Development\Kütüphane Kayıt Otomasyonu\Kütüphane Kayıt Programı\bin\Debug\Kütüphane Kayıt Programı.exe.config
+D:\OneDrive\DATA\Software_Development\Kütüphane Kayıt Otomasyonu\Kütüphane Kayıt Programı\bin\Debug\Kütüphane Kayıt Programı.exe
+D:\OneDrive\DATA\Software_Development\Kütüphane Kayıt Otomasyonu\Kütüphane Kayıt Programı\bin\Debug\Kütüphane Kayıt Programı.pdb
+D:\OneDrive\DATA\Software_Development\Kütüphane Kayıt Otomasyonu\Kütüphane Kayıt Programı\obj\Debug\Kütüphane Kayıt Programı.csproj.AssemblyReference.cache
+D:\OneDrive\DATA\Software_Development\Kütüphane Kayıt Otomasyonu\Kütüphane Kayıt Programı\obj\Debug\Kütüphane Kayıt Programı.csproj.SuggestedBindingRedirects.cache
+D:\OneDrive\DATA\Software_Development\Kütüphane Kayıt Otomasyonu\Kütüphane Kayıt Programı\obj\Debug\Kütüphane_Kayıt_Programı.frmGiris.resources
+D:\OneDrive\DATA\Software_Development\Kütüphane Kayıt Otomasyonu\Kütüphane Kayıt Programı\obj\Debug\Kütüphane_Kayıt_Programı.frmAnaPanel.resources
+D:\OneDrive\DATA\Software_Development\Kütüphane Kayıt Otomasyonu\Kütüphane Kayıt Programı\obj\Debug\Kütüphane_Kayıt_Programı.frmVTE.resources
+D:\OneDrive\DATA\Software_Development\Kütüphane Kayıt Otomasyonu\Kütüphane Kayıt Programı\obj\Debug\Kütüphane_Kayıt_Programı.Properties.Resources.resources
+D:\OneDrive\DATA\Software_Development\Kütüphane Kayıt Otomasyonu\Kütüphane Kayıt Programı\obj\Debug\Kütüphane Kayıt Programı.csproj.GenerateResource.cache
+D:\OneDrive\DATA\Software_Development\Kütüphane Kayıt Otomasyonu\Kütüphane Kayıt Programı\obj\Debug\Kütüphane Kayıt Programı.csproj.CoreCompileInputs.cache
+D:\OneDrive\DATA\Software_Development\Kütüphane Kayıt Otomasyonu\Kütüphane Kayıt Programı\obj\Debug\Kütüphane Kayıt Programı.exe
+D:\OneDrive\DATA\Software_Development\Kütüphane Kayıt Otomasyonu\Kütüphane Kayıt Programı\obj\Debug\Kütüphane Kayıt Programı.pdb
